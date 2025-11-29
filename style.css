@@ -171,7 +171,7 @@ footer h3, footer h4 {
 .event-card img, .case-card img {
     width: 150px;
     height: 110px;
-    object-fit: cover;
+    
     border-radius: 6px;
     border: 1px solid #ccc;
 }
@@ -185,4 +185,61 @@ button{
     color: white;
     float: right;
     top: 0px;
+}
+.h{
+     background: #fafafa;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 6px;
+    border-left: 6px solid #b89b49;
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+.h img{
+    width: 150px;
+    height: 110px;
+    
+    border-radius: 6px;
+    border: 1px solid #ccc;
+}
+
+.card{
+    flex: 1;
+    background: color #fff8e6;
+    color: #333;
+}
+.c{
+     background: #fafafa;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 6px;
+    border-left: 6px solid #b89b49;
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+.c img{
+    width: 150px;
+    height: 110px;
+    
+    border-radius: 6px;
+    border: 1px solid #ccc;
+}
+.b{
+     background: #fafafa;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 6px;
+    border-left: 6px solid #b89b49;
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+.b img{
+    width: 150px;
+    height: 110px;
+    
+    border-radius: 6px;
+    border: 1px solid #ccc;
 }
